@@ -6,7 +6,7 @@
 }
 
 .reloj-contenedor{
-    background-color: rgb(12,119,206);
+    background-color: rgb(80, 3, 212);
     padding: 25px;
     max-width: 350px;
     text-align: center;
@@ -18,4 +18,8 @@
 #fecha{
     letter-spacing: 10px;
     font-size: 15px;;
+}
+
+.animar{
+    border: rgb(236, 8, 213) 2px solid;
 }

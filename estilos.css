@@ -6,7 +6,7 @@
 }
 
 .reloj-contenedor{
-    background-color: rgb(80, 3, 212);
+    background-color: rgb(189, 14, 154);
     padding: 25px;
     max-width: 350px;
     text-align: center;
@@ -21,5 +21,5 @@
 }
 
 .animar{
-    border: rgb(236, 8, 213) 2px solid;
+    border: rgb(15, 0, 14) 2px solid;
 }
